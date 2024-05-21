@@ -11,6 +11,8 @@ Una aplicacion móvil sencilla para compras y productos
 
 **Backend:** Node.js, Express
 
+**Base de datos:** PostgreSQL
+
 ## Variables de Entorno
 
 Para ejecutar el proyecto, tienes que tener las siguientes variables de entorno en el archivo .env

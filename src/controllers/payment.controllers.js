@@ -1,4 +1,4 @@
-const { PAYPAL_API_CLIENT, PAYPAL_API_SECRET, PAYPAL_API } = require('../config')
+const { PAYPAL_API_CLIENT, PAYPAL_API_SECRET, PAYPAL_API, IP } = require('../config')
 const axios = require('axios');
 const pool = require('../configDB');
 
@@ -25,8 +25,8 @@ const createOrder = async (req, res) => {
                 brand_name: "DealDash.com",
                 landing_page: "NO_PREFERENCE",
                 user_action: "PAY_NOW",
-                return_url: `http://192.168.100.7:3000/capture-order`,
-                cancel_url: `http://192.168.100.7:3000/cancel-payment`,
+                return_url: `http://${IP}/capture-order`,
+                cancel_url: `http://${IP}/cancel-payment`,
             },
         };
 

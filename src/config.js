@@ -4,6 +4,7 @@ config();
 const PAYPAL_API_CLIENT = process.env.PAYPAL_API_CLIENT;
 const PAYPAL_API_SECRET = process.env.PAYPAL_API_SECRET;
 const PAYPAL_API = 'https://api-m.sandbox.paypal.com';
+const IP = process.env.IP
 
 module.exports = {
     db: {
@@ -15,5 +16,6 @@ module.exports = {
     },
     PAYPAL_API_CLIENT,
     PAYPAL_API_SECRET,
-    PAYPAL_API
+    PAYPAL_API,
+    IP
 }

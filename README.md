@@ -57,7 +57,7 @@ Iniciar el proyecto
 ## 🔗 Contactos
 [![portfolio](https://img.shields.io/badge/Mi_Portafolio-000?style=flat&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christian-chico-lópez-708601309)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/christianchicolópez)
 
 [![outlook](https://img.shields.io/badge/Microsoft_Outlook-blue?style=flat-square&logo=microsoft-outlook&logoColor=white)](mailto:christian.chico@hotmail.com)
 
